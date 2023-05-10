@@ -2,11 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://kush1729.github.io/origami/alamo_stallion/</loc>
-<lastmod>2023-05-10T10:02:05+00:00</lastmod>
+<lastmod>2023-05-10T10:15:16+00:00</lastmod>
 </url>
 <url>
 <loc>https://kush1729.github.io/origami/black_forest_cuckoo_clock/</loc>
-<lastmod>2023-05-10T10:02:05+00:00</lastmod>
+<lastmod>2023-05-10T10:15:16+00:00</lastmod>
+</url>
+<url>
+<loc>https://kush1729.github.io/teaching/2023-summer-quadratic_forms/</loc>
+<lastmod>2023-04-25T14:14:00+00:00</lastmod>
 </url>
 <url>
 <loc>https://kush1729.github.io/</loc>
@@ -21,9 +25,9 @@
 <loc>https://kush1729.github.io/publications/</loc>
 </url>
 <url>
-<loc>https://kush1729.github.io/teaching/</loc>
+<loc>https://kush1729.github.io/writings/</loc>
 </url>
 <url>
-<loc>https://kush1729.github.io/writings/</loc>
+<loc>https://kush1729.github.io/teaching/</loc>
 </url>
 </urlset>
