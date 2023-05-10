@@ -4,7 +4,7 @@ title: Origami
 permalink: /origami/
 description: A growing collection of my origami.
 nav: true
-nav_order: 2
+nav_order: 5
 display_categories: [original, remake]
 horizontal: false
 ---
