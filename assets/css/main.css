@@ -552,6 +552,8 @@ footer.sticky-bottom {
 .publications ol.bibliography li .abbr {
   height: 2rem;
   margin-bottom: 0.5rem;
+  flex: 0 !important;
+  padding: 0 !important;
 }
 .publications ol.bibliography li .abbr abbr {
   display: inline-block;
@@ -568,6 +570,10 @@ footer.sticky-bottom {
 .publications ol.bibliography li .abbr .award {
   color: var(--global-theme-color) !important;
   border: 1px solid var(--global-theme-color);
+}
+.publications ol.bibliography li > .row > .col-sm-8 {
+  flex: 1 !important;
+  max-width: 100% !important;
 }
 .publications ol.bibliography li .title {
   font-weight: bolder;
