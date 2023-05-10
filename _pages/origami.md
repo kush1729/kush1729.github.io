@@ -29,6 +29,8 @@ horizontal: false
     <div class="row row-cols-2">
     {%- for project in sorted_origami -%}
       {% include projects_horizontal.html %}
+    {%- else -%}
+      <p>Coming soon!</p>
     {%- endfor %}
     </div>
   </div>
@@ -36,6 +38,8 @@ horizontal: false
   <div class="grid">
     {%- for project in sorted_origami -%}
       {% include projects.html %}
+    {%- else -%}
+      <p>Coming soon!</p>
     {%- endfor %}
   </div>
   {%- endif -%}
@@ -50,6 +54,8 @@ horizontal: false
     <div class="row row-cols-2">
     {%- for project in sorted_origami -%}
       {% include projects_horizontal.html %}
+    {%- else -%}
+      <p>Coming soon!</p>
     {%- endfor %}
     </div>
   </div>
@@ -57,6 +63,8 @@ horizontal: false
   <div class="grid">
     {%- for project in sorted_origami -%}
       {% include projects.html %}
+    {%- else -%}
+      <p>Coming soon!</p>
     {%- endfor %}
   </div>
   {%- endif -%}

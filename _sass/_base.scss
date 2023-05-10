@@ -947,3 +947,12 @@ nav[data-toggle="toc"] {
   }
 }
 
+.publications ol.bibliography li .abbr {
+  flex: 0 !important;
+  padding: 0 !important;
+}
+
+.publications ol.bibliography li .col-sm-8 {
+  flex: 1 !important;
+  max-width: 100% !important;
+}

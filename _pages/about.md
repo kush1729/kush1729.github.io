@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About
+subtitle: "Email: first initial + last name [at] math [dot] harvard [dot] edu"
 permalink: /
 
 profile:
@@ -9,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>428f, Science Center, Harvard</p>
-    <p>first initial + last name [at] math [dot] harvard [dot] edu</p>
     <a href="/assets/pdf/CV.pdf" download> My CV </a>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -17,3 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 I'm a first year PhD student in the Harvard math department. My advisor is [Mark Kisin](https://people.math.harvard.edu/~kisin/). I'm interested in algebraic number theory; specifically, I'm interested in the intersection of arithmetic geometry and (automorphic) representation theory. I did my undergraduate degree at the University of Hong Kong (HKU).
 
 Outside of mathematics, I like to fold origami. If you're interested in origami and are in or around Cambridge, do check out [OrigaMIT](http://origamit.mit.edu/)!
+

@@ -236,6 +236,9 @@ scholar:
 
   style: apa
   locale: en
+  sort_by: date
+  order: descending
+
 
   source: /_bibliography/
   bibliography: papers.bib
