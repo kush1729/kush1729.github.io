@@ -3,8 +3,8 @@ layout: page
 title: Alamo Stallion
 description: Designed by Robert Lang.
 img: assets/img/Alamo_Stallion.jpg
-importance: 1
-category: original
+importance: 3
+category: remake
 ---
 
 <div class="row">

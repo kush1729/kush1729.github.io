@@ -2,22 +2,18 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>428f, Science Center, Harvard</p>
+    <p>first initial + last name [at] math [dot] harvard [dot] edu</p>
+    <a href="/assets/pdf/CV.pdf" download> My CV </a>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
+I'm a first year PhD student in the Harvard math department. My advisor is [Mark Kisin](https://people.math.harvard.edu/~kisin/). I'm interested in algebraic number theory; specifically, I'm interested in the intersection of arithmetic geometry and (automorphic) representation theory. I did my undergraduate degree at the University of Hong Kong (HKU).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of mathematics, I like to fold origami. If you're interested in origami and are in or around Cambridge, do check out [OrigaMIT](http://origamit.mit.edu/)!
