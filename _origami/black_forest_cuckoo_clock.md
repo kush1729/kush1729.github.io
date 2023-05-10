@@ -9,9 +9,6 @@ category: remake
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path=page.img title=page.title class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Black_Forest_cuckoo_clock.jpg" title="Black Forest Cuckoo Clock" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    {% page.description %}
 </div>
