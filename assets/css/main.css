@@ -850,6 +850,16 @@ nav[data-toggle=toc] .nav-link.active:hover {
     top: 0;
   }
 }
+.publications ol.bibliography li .abbr {
+  flex: 0 !important;
+  padding: 0 !important;
+}
+
+.publications ol.bibliography li .col-sm-8 {
+  flex: 1 !important;
+  max-width: 100% !important;
+}
+
 /*******************************************************************************
  * Style overrides for distill blog posts.
  ******************************************************************************/
