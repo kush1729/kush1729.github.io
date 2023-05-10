@@ -14,7 +14,13 @@ horizontal: false
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
+  <h2 class="category">
+    {% if category == "original" -%}
+      Original Designs
+    {%- else -%}
+      Folding Other's Designs
+    {%- endif -%}
+  </h2>
   {%- assign categorized_origami = site.origami | where: "category", category -%}
   {%- assign sorted_origami = categorized_origami | sort: "importance" %}
   <!-- Generate cards for each project -->

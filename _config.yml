@@ -38,14 +38,6 @@ repo_trophies:
   theme_dark: gitdimmed  # https://github.com/ryo-ma/github-profile-trophy
 
 # -----------------------------------------------------------------------------
-# RSS Feed
-# -----------------------------------------------------------------------------
-# will use title and url fields
-# Take a look to https://github.com/jekyll/jekyll-feed for more customization
-
-rss_icon: true
-
-# -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
 
@@ -187,7 +179,6 @@ plugins:
   - jekyll-archives
   - jekyll-diagrams
   - jekyll-email-protect
-  - jekyll-feed
   - jekyll-imagemagick
   - jekyll-link-attributes
   - jekyll-minifier
@@ -286,7 +277,7 @@ external_links:
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
     - 800

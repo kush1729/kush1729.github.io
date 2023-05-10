@@ -2,11 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Kush Singhal
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 9th July 2000
 
 - title: Education
   type: time_table
