@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arithmetic Theory of Quadratic Forms
-date: 2023
+date: 2023-07-03
 description: This is a summer tutorial that I am going to run on the arithmetic theory of quadratic forms.
 giscus_comments: true
 related_posts: false
