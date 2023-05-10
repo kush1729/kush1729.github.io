@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>428f, Science Center, Harvard</p>
-    <a href="/assets/pdf/CV.pdf" download> My CV </a>
+    <a href="/assets/pdf/CV.pdf"> My CV </a>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
