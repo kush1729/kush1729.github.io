@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Arithmetic Theory of Quadratic Forms
 date: 2023-07-03
 description: This is a summer tutorial that I am going to run on the arithmetic theory of quadratic forms.

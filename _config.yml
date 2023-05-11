@@ -143,10 +143,10 @@ disqus_shortname: al-folio # put your disqus shortname
 collections:
   origami:
     output: true
-    permalink: /origami/:path/
+    permalink: /origami/:path
   teaching:
     output: true
-    permalink: /teaching/:path/
+    permalink: /teaching/:path
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
