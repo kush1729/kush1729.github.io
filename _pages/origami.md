@@ -2,7 +2,7 @@
 layout: page
 title: Origami
 permalink: /origami/
-description: A growing collection of my origami.
+description: A growing collection of my favourite origami.
 nav: true
 nav_order: 5
 display_categories: [original, remake]
