@@ -7,6 +7,8 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
+
+Read at your own risk!
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
