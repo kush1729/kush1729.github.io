@@ -2,7 +2,7 @@
 layout: page
 permalink: /writings/
 title: Writings
-description: Random writings.
+description: Random notes I've made. Read at your own risk!
 nav: true
 nav_order: 4
 ---
