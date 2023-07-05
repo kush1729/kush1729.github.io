@@ -18,4 +18,4 @@ For more detail, as well as for prerequisites, other summer tutorials at Harvard
 
 I will be writing my own course notes, which I will make available [here](https://kush1729.github.io/assets/pdf/Quadratic_Forms_Lecture_Notes.pdf).
 
-There will also be weekly problem sets, which are NOT required. The problem sets are just exercises for those who are interested in becoming more comfortable with the topic. There will also be some extra results/theorems in the problem sets which I feel are interesting exercises or that I just didn't have time to prove in class.
+There will also be weekly problem sets, which are NOT required. The problem sets are just exercises for those who are interested in becoming more comfortable with the topic. Problem Sets: [1](https://kush1729.github.io/assets/pdf/PSet1-Sum23QF.pdf)
