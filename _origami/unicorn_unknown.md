@@ -2,7 +2,7 @@
 layout: page
 title: Unicorn
 description: Designer unknown.
-img: assets/img/Unicorn_unkown.jpg
+img: assets/img/Unicorn_unknown.jpg
 importance: 3
 category: remake
 ---
