@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Facehugger (from the Alien franchise)
-description: Designed by Danny Origami.
-img: assets/img/Facehugger.JPG
-importance: 2
+title: Tiger
+description: Designed by Hideo Komatsu
+img: assets/img/Hideo_Komatsu_Tiger_(pic1).jpg
+importance: 1
 category: favourite
 ---
 

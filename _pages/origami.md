@@ -5,7 +5,7 @@ permalink: /origami/
 description: A growing collection of my favourite origami.
 nav: true
 nav_order: 5
-display_categories: [original, remake]
+display_categories: [favourite, remake]
 horizontal: false
 ---
 
@@ -15,8 +15,8 @@ horizontal: false
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
   <h2 class="category">
-    {% if category == "original" -%}
-      Original Designs
+    {% if category == "favourite" -%}
+      My Favourites
     {%- else -%}
       Folding Other's Designs
     {%- endif -%}

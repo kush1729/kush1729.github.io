@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Facehugger (from the Alien franchise)
-description: Designed by Danny Origami.
-img: assets/img/Facehugger.JPG
-importance: 2
+title: Squid v Whale
+description: Designed by Brandon Wong (aka Plant Psychologist)
+img: assets/img/Squid_v_whale_Brandon_Wong.jpg
+importance: 1
 category: favourite
 ---
 
