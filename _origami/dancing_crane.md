@@ -3,8 +3,8 @@ layout: page
 title: Dancing Crane
 description: Designed by Robert Lang.
 img: assets/img/Dancing_crane.jpg
-importance: 3
-category: remake
+importance: 1
+category: remake_Kami
 ---
 
 <div class="row">

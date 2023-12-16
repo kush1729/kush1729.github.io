@@ -4,7 +4,7 @@ title: Turtle with Patterned Shell
 description: Designed by Robert Lang.
 img: assets/img/Turtle_with_patterned_shell.jpg
 importance: 3
-category: remake
+category: remake_Kami
 ---
 
 <div class="row">

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Songbird
-description: Designed by Robert Lang.
-img: assets/img/lang_songbird.jpg
-importance: 1
-category: remake_Kami
+title: Harlequin Beetle
+description: Designed by Robert Lang
+img: assets/img/Harlequin_Beetle_Robert_Lang.jpg
+importance: 2
+category: remake_TP
 ---
 
 <div class="row">

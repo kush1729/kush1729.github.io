@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Angel
-description: Designer unknown.
+description: Designer unknown (if you do know who designed it please do let me know!).
 img: assets/img/Angel_Unkown.jpg
 importance: 2
-category: remake
+category: remake_Kami
 ---
 
 <div class="row">

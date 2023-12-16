@@ -3,8 +3,8 @@ layout: page
 title: Eastern Dragon
 description: Designed by Jun Maekawa.
 img: assets/img/eastern_dragon_maekawa.jpg
-importance: 3
-category: remake
+importance: 2
+category: remake_Kami
 ---
 
 <div class="row">

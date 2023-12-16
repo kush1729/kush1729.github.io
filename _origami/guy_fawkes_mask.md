@@ -3,8 +3,8 @@ layout: page
 title: Guy Fawkes Mask
 description: Designed by Brian Chan.
 img: assets/img/Guy_Fawkes_mask.jpg
-importance: 4
-category: remake
+importance: 3
+category: remake_Kami
 ---
 
 <div class="row">

@@ -4,7 +4,7 @@ title: Silverfish
 description: Designed by Robert Lang.
 img: assets/img/Silverfish.jpg
 importance: 2
-category: remake
+category: remake_tracing
 ---
 
 <div class="row">

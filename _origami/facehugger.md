@@ -3,8 +3,8 @@ layout: page
 title: Facehugger (from the Alien franchise)
 description: Designed by Danny Origami.
 img: assets/img/Facehugger.JPG
-importance: 2
-category: favourite
+importance: 1
+category: remake_tracing
 ---
 
 <div class="row">

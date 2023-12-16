@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Songbird
-description: Designed by Robert Lang.
-img: assets/img/lang_songbird.jpg
-importance: 1
-category: remake_Kami
+title: Simple Butterfly
+description: Designed by Robert Lang
+img: assets/img/Robert_Lang_(simple)_butterfly.jpg
+importance: 5
+category: remake_TP
 ---
 
 <div class="row">

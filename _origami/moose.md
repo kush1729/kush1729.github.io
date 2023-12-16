@@ -3,8 +3,8 @@ layout: page
 title: Moose
 description: Designed by Robert Lang.
 img: assets/img/Moose.jpg
-importance: 1
-category: remake
+importance: 2
+category: remake_tracing
 ---
 
 <div class="row">

@@ -3,8 +3,8 @@ layout: page
 title: Wall-E
 description: Designed by Brian Chan.
 img: assets/img/Brian-Cham-Wall-E.JPG
-importance: 2
-category: remake
+importance: 3
+category: remake_tracing
 ---
 
 <div class="row">

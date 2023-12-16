@@ -4,7 +4,7 @@ title: Woman Playing an Organ
 description: Designed by Robert Lang.
 img: assets/img/Organist.jpg
 importance: 1
-category: remake
+category: remake_tracing
 ---
 
 <div class="row">

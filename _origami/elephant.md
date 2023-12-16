@@ -4,7 +4,7 @@ title: Elephant
 description: Designed by Robert Lang.
 img: assets/img/Elephant.jpg
 importance: 2
-category: remake
+category: remake_Kami
 ---
 
 <div class="row">

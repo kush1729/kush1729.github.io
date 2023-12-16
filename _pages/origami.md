@@ -2,10 +2,10 @@
 layout: page
 title: Origami
 permalink: /origami/
-description: A growing collection of my favourite origami.
+description: A growing collection of all of my folds.
 nav: true
 nav_order: 5
-display_categories: [favourite, remake]
+display_categories: [original, remake_TP, remake_tracing, remake_Kami]
 horizontal: false
 ---
 
@@ -15,10 +15,16 @@ horizontal: false
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
   <h2 class="category">
-    {% if category == "favourite" -%}
-      My Favourites
+    {% if category == "original" -%}
+      Original Designs
+    {% elsif category == "remake_TP" -%}
+      Other's Designs, Folded Using Tissue Paper
+    {% elsif category == "remake_tracing" -%}
+      Other's Designs, Folded Using Tracing Paper
+    {% elsif category == "remake_Kami" -%}
+      Other's Designs, Folded Using Kami
     {%- else -%}
-      Folding Other's Designs
+      Miscellaneous Folds
     {%- endif -%}
   </h2>
   {%- assign categorized_origami = site.origami | where: "category", category -%}

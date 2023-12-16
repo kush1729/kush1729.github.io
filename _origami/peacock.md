@@ -3,8 +3,8 @@ layout: page
 title: Peacock
 description: Designed by Jun Maekawa.
 img: assets/img/peacock.jpg
-importance: 2
-category: remake
+importance: 1
+category: remake_Kami
 ---
 
 <div class="row">

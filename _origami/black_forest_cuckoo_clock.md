@@ -4,7 +4,7 @@ title: Black Forest Cuckoo Clock
 description: Designed by Robert Lang. From one 10ft x 1ft piece of tracing paper. It took 17 hours to fold.
 img: assets/img/Black_Forest_cuckoo_clock.jpg
 importance: 1
-category: remake
+category: remake_tracing
 ---
 
 <div class="row">

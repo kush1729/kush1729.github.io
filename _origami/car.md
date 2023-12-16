@@ -4,7 +4,7 @@ title: Convertible
 description: Designed by Jason Ku
 img: assets/img/Jason_Ku_Convertible.jpg
 importance: 1
-category: remake
+category: remake_Kami
 ---
 
 <div class="row">

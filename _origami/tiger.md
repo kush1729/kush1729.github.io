@@ -3,8 +3,8 @@ layout: page
 title: Tiger
 description: Designed by Hideo Komatsu
 img: assets/img/Hideo_Komatsu_Tiger_(pic1).jpg
-importance: 1
-category: favourite
+importance: 2
+category: remake_TP
 ---
 
 <div class="row">

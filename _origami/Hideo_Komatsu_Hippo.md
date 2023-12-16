@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Songbird
-description: Designed by Robert Lang.
-img: assets/img/lang_songbird.jpg
-importance: 1
-category: remake_Kami
+title: Hippo
+description: Designed by Hideo Komatsu
+img: assets/img/Hideo_Komatsu_Hippo.jpg
+importance: 2
+category: remake_TP
 ---
 
 <div class="row">

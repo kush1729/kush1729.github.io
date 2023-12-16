@@ -4,7 +4,7 @@ title: Squid v Whale
 description: Designed by Brandon Wong (aka Plant Psychologist)
 img: assets/img/Brandon_Wong_Martial_Artist.jpg
 importance: 1
-category: favourite
+category: remake_TP
 ---
 
 <div class="row">

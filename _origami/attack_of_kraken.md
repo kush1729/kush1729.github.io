@@ -4,7 +4,7 @@ title: Attack of the Kraken
 description: Designed by Brian Chan
 img: assets/img/Attack_of_the_Kraken_Brian_Chan.jpg
 importance: 1
-category: favourite
+category: remake_TP
 ---
 
 <div class="row">

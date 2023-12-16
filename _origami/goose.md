@@ -3,8 +3,8 @@ layout: page
 title: Goose
 description: Designed by Roman Diaz
 img: assets/img/Roman_Diaz_Goose.jpg
-importance: 1
-category: remake
+importance: 2
+category: remake_Kami
 ---
 
 <div class="row">

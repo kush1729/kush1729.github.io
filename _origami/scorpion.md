@@ -3,8 +3,8 @@ layout: page
 title: Scorpion
 description: Designed by Riccardo Foschi
 img: assets/img/Riccardo_Foschi_Scorpion.jpg
-importance: 2
-category: remake
+importance: 3
+category: remake_tracing
 ---
 
 <div class="row">
