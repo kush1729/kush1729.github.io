@@ -5,7 +5,7 @@ permalink: /origami/
 description: A growing collection of all of my folds.
 nav: true
 nav_order: 5
-display_categories: [original, remake_TP, remake_tracing, remake_Kami]
+display_categories: [original, remake_TP, remake_tracing, remake_Kami, remake_special]
 horizontal: false
 ---
 
@@ -17,6 +17,8 @@ horizontal: false
   <h2 class="category">
     {% if category == "original" -%}
       Original Designs
+    {% elsif category == "remake_special" -%}
+      Other's Designs, Folded using Specialized Paper
     {% elsif category == "remake_TP" -%}
       Other's Designs, Folded Using Tissue Paper
     {% elsif category == "remake_tracing" -%}
