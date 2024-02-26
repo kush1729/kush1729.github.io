@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Squid v Whale
+title: Martial Artist
 description: Designed by Brandon Wong (aka Plant Psychologist)
 img: assets/img/Brandon_Wong_Martial_Artist.jpg
 importance: 1
