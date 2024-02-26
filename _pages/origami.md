@@ -5,7 +5,7 @@ permalink: /origami/
 description: A growing collection of all of my folds.
 nav: true
 nav_order: 5
-display_categories: [original, remake_TP, remake_tracing, remake_Kami, remake_special]
+display_categories: [original, remake_special, remake_TP, remake_tracing, remake_Kami]
 horizontal: false
 ---
 
