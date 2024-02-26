@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Angel
-description: Designer unknown (if you do know who designed it please do let me know!).
+description: Designed by Damien Malicki
 img: assets/img/Angel_Unkown.jpg
 importance: 2
 category: remake_Kami
