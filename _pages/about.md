@@ -14,7 +14,7 @@ profile:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
-I'm a first year PhD student in the Harvard math department. My advisor is [Mark Kisin](https://people.math.harvard.edu/~kisin/). I'm interested in algebraic number theory; specifically, I'm interested in the intersection of arithmetic geometry, $$p$$-adic geometry, and $$p$$-adic Hodge theory. 
+I'm a fourth-year PhD student in the Harvard math department. My advisor is [Mark Kisin](https://people.math.harvard.edu/~kisin/). I'm interested in applications of homotopy theory to algebraic number theory; specifically, I'm interested in the intersection of Iwasawa Theory, $$p$$-adic geometry, and chromatic homotopy theory. 
 
 I'm originally from Bangalore, India, though I did my undergraduate degree at the University of Hong Kong (HKU). Outside of mathematics, I like to fold origami. If you're interested in origami and are in or around Cambridge, do check out [OrigaMIT](http://origamit.mit.edu/)!
 
