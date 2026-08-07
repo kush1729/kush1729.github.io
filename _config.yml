@@ -241,7 +241,7 @@ scholar:
 
   style: apa
   locale: en
-  sort_by: date
+  sort_by: year
   order: descending
 
 
