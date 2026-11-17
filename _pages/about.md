@@ -6,9 +6,12 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: copenhagen_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p style="text-align: right; font-size: 0.7em; font-style: italic;">
+      Photo Credit: <a href="https://ryquinn.github.io/">Ryan Quinn</a>
+    </p>
     <p>428h, Science Center, Harvard</p>
     <a href="/assets/pdf/CV.pdf"> My CV </a>
 
